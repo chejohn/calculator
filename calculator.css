@@ -5,6 +5,7 @@ body {
     display: grid;
     justify-content: center;
     align-items: center;
+    background-color: #f6f6f6;
 }
 
 #container {
@@ -52,6 +53,10 @@ body {
     border-radius: 5px;
     font-size: 2rem;
     padding: 10px;
+}
+
+.button:hover {
+    opacity: 0.9;
 }
 
 #display {
