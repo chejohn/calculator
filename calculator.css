@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     width: 100vw;
@@ -35,15 +36,15 @@ body {
 }
 
 .function {
-    background-color: dodgerblue;
+    background-color: hsl(210, 100%, 56%);
 }
 
 .operation {
-    background-color: #FF8F1F;;
+    background-color: 	hsl(30, 100%, 56%);
 }
 
 .number {
-    background-color: #217C7E;
+    background-color: 	hsl(181, 58%, 31%);
 }
 
 .button {
@@ -52,7 +53,7 @@ body {
     align-items: center;
     border-radius: 5px;
     font-size: 2rem;
-    padding: 10px;
+    padding: 8px;
 }
 
 .button:hover {
@@ -70,7 +71,7 @@ body {
 }
 
 #sub-display {
-    font-size: 5.5rem;
+    font-size: 5rem;
     margin-right: 10px;
 }
 
