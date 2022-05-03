@@ -4,5 +4,5 @@ Four function calculator
 
 # What I Learned
 
-* Javascript object for state management
+* Javascript objects for state management
 * re-usable functions 
