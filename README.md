@@ -1,3 +1,8 @@
-# calculator
+# Calculator
 
-This is a four function calculator than can be used in any browser window
+Four function calculator
+
+# What I Learned
+
+* Javascript object for state management
+* re-usable functions 
